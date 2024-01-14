@@ -14,5 +14,5 @@ What is *args and how to use it.
 What is **kwargs and how to use it.
 How to handle named arguments in a function.
 This project require : Python, OOP.
-Project to be done in teams of 2 people
+Project to be done in teams of 2 people.
 AirBnB Clone (the console) is the first in the serious of projects to wards a full stack AirBnB web application. This repo contains a console application that can be used to manage the various instances of class used in the AirBnB web application
